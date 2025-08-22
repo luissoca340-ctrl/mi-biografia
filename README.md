@@ -7,6 +7,7 @@
 
 ## 🚀 Lenguajes que domino
 - PHP
+- Python
 - Java
 - C#
 - JavaScript
