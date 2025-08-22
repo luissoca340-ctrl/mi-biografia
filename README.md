@@ -26,3 +26,9 @@
 ## 📧 Contacto
 - Email: luissoca@example.com
 - LinkedIn: [linkedin.com/in/luissoca](https://linkedin.com/in/luissoca)
+
+## ❤️ Tecnologías favoritas
+- Odoo
+- React
+- Spring Boot
+
