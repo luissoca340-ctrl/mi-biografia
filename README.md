@@ -23,6 +23,7 @@
 
 ## 📚 Experiencia previa
 
+
 * Desarrollo de proyectos académicos y prácticos en entorno universitario.
 * Prácticas de integración de sistemas con **AJAX y WebSockets**.
 * Experiencia con control de versiones en **Git y GitHub**.
@@ -35,3 +36,11 @@
 * ## \- Odoo
 * ## \- React
 * ## \- Spring Boot
+
+- Desarrollo de proyectos académicos y prácticos en entorno universitario.
+- Prácticas de integración de sistemas con **AJAX y WebSockets**.
+- Experiencia con control de versiones en **Git y GitHub**.
+
+## 📧 Contacto
+- Email: luissoca@example.com
+- LinkedIn: [linkedin.com/in/luissoca](https://linkedin.com/in/luissoca)
